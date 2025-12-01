@@ -15,16 +15,16 @@ Wir können jede abgegebene Lösung sehen, auch eure ältere Versionen. Bewertet
 
 ## Test-Aufgaben
 Hier gibt es noch einige Aufgaben, um GitHub und GitHub Classroom kennenzulernen. Sie sind jederzeit geöffnet. 
-Aufgabe 1: 
-Aufgabe 2: 
+Informatikaufgabe: https://classroom.github.com/a/mEr-uECZ </br>
+Matheaufgabe: </br>
 
 ## Adventskalender
-### 1. Dezember 2025 (geöffnet von 01.12. bis 05.12.): 
-leicht:
-mittel:
-schwer:
+### 1. Dezember 2025 (geöffnet von 01.12. bis 07.12.): 
+leicht:  </br>
+mittel:  </br>
+schwer:  </br>
 
-### 2. Dezember 2025 (geöffnet von 02.12. bis 05.12.):
-leicht: 
-mittel:
-schwer: 
+### 2. Dezember 2025 (geöffnet von 02.12. bis 07.12.):
+leicht:  </br>
+mittel:  </br>
+schwer:  </br>
