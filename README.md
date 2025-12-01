@@ -15,7 +15,7 @@ Wir können jede abgegebene Lösung sehen, auch eure ältere Versionen. Bewertet
 
 ## Test-Aufgaben
 Hier gibt es noch einige Aufgaben, um GitHub und GitHub Classroom kennenzulernen. Sie sind jederzeit geöffnet. </br>
-Informatikaufgabe: https://classroom.github.com/a/mEr-uECZ </br>
+Informatikaufgabe: https://classroom.github.com/a/AT8PqcYr </br>
 Matheaufgabe: </br>
 
 ## Adventskalender
