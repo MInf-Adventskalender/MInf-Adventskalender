@@ -29,6 +29,16 @@ mittel: https://classroom.github.com/a/sfSmA9xE </br>
 schwer: https://classroom.github.com/a/Dh2_mq-G </br>
 
 ### 2. Dezember 2025 (geöffnet von 02.12. bis 07.12.):
+leicht: https://classroom.github.com/a/i-L1PQVq </br>
+mittel: https://classroom.github.com/a/bDQkeuVG </br>
+schwer: https://classroom.github.com/a/ddhhML1C </br>
+
+### 3. Dezember 2025 (geöffnet von 03.12. bis 07.12.):
+leicht:  </br>
+mittel:  </br>
+schwer:  </br>
+
+### 4. Dezember 2025 (geöffnet von 04.12. bis 07.12.):
 leicht:  </br>
 mittel:  </br>
 schwer:  </br>
