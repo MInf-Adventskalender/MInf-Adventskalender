@@ -24,23 +24,63 @@ Hier gibt es noch einige Aufgaben, um GitHub und GitHub Classroom kennenzulernen
 Informatikaufgabe: https://classroom.github.com/a/AT8PqcYr </br>
 Matheaufgabe: <i>Noch nicht vorhanden</i></br>
 
-## Adventskalender
-### 1. Dezember 2025 (geöffnet von 01.12. bis 07.12.): 
+## Adventskalender (Aufgaben sind geöffnet bis 31.12.2025)
+### 1. Dezember 2025: 
 leicht: https://classroom.github.com/a/qZYsEqWk </br>
-mittel: https://classroom.github.com/a/sfSmA9xE </br>
+mittel: https://classroom.github.com/a/sfSmA9xE </br> <b>! Fehler bei mittel: Bei a sollte num2 statt num1 addiert werden!</b></br>
 schwer: https://classroom.github.com/a/Dh2_mq-G </br>
 
-### 2. Dezember 2025 (geöffnet von 02.12. bis 07.12.):
+### 2. Dezember 2025:
 leicht: https://classroom.github.com/a/i-L1PQVq </br>
 mittel: https://classroom.github.com/a/bDQkeuVG </br>
 schwer: https://classroom.github.com/a/ddhhML1C </br>
 
-### 3. Dezember 2025 (geöffnet von 03.12. bis 07.12.):
+### 3. Dezember 2025:
 leicht: https://classroom.github.com/a/AxwWiLRg </br>
 mittel: https://classroom.github.com/a/sqzK93GO </br>
 schwer: https://classroom.github.com/a/RjqLcSed </br>
 
-### 4. Dezember 2025 (geöffnet von 04.12. bis 07.12.):
+### 4. Dezember 2025:
+leicht: https://classroom.github.com/a/v3jSovPa </br>
+mittel:  </br>
+schwer:  </br>
+
+### 5. Dezember 2025:
+leicht:  </br>
+mittel:  </br>
+schwer:  </br>
+
+### 6. Dezember 2025:
+leicht:  </br>
+mittel:  </br>
+schwer:  </br>
+
+### 7. Dezember 2025:
+leicht:  </br>
+mittel:  </br>
+schwer:  </br>
+
+### 8. Dezember 2025:
+leicht:  </br>
+mittel:  </br>
+schwer:  </br>
+
+### 9. Dezember 2025:
+leicht:  </br>
+mittel:  </br>
+schwer:  </br>
+
+### 10. Dezember 2025:
+leicht:  </br>
+mittel:  </br>
+schwer:  </br>
+
+### 11. Dezember 2025:
+leicht:  </br>
+mittel:  </br>
+schwer:  </br>
+
+### 12. Dezember 2025:
 leicht:  </br>
 mittel:  </br>
 schwer:  </br>
